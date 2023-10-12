@@ -3,7 +3,7 @@ Library  RequestsLibrary
 Library  BuiltIn
 
 *** Variables ***
-${BASE_URL}  http://127.0.0.1:5000
+${BASE_URL}  http://192.168.17.133:5000
 
 *** Test Cases ***
 be_0_when_x_is_0
